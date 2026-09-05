@@ -2133,26 +2133,10 @@
       }
     ]
   },
-  "QbdGnUoTLgMHO1NCQINIi": {
-    "title": "relm",
-    "description": "`relm` is a declarative, event-driven GUI framework for Rust built on `gtk-rs` and GTK+3. Uses Model-View-Update architecture with async Futures for complex UI interactions. Features widget identification by name, seamless inter-widget communication, and leverages Rust's safe concurrency for dynamic desktop applications.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Relm",
-        "url": "https://relm4.org/",
-        "type": "article"
-      },
-      {
-        "title": "Relm Documentation",
-        "url": "https://relm4.org/book/stable/",
-        "type": "article"
-      },
-      {
-        "title": "Relm, a GUI library, based on GTK+ and futures, written in Rust",
-        "url": "https://relm.antoyo.xyz/relm-intro/",
-        "type": "article"
-      }
-    ]
+  "iced@QbdGnUoTLgMHO1NCQINIi.md": {
+    "title": "Iced",
+    "description": "",
+    "links": []
   },
   "RKXljexmLAceMYwg4D_uP": {
     "title": "Embedded and Systems",
@@ -2462,5 +2446,15 @@
         "type": "article"
       }
     ]
+  },
+  "box@WjpkWH7f38y-bHUJ6ruGG.md": {
+    "title": "Box",
+    "description": "",
+    "links": []
+  },
+  "gpui@sK2pHK0iTvL3KdTTFCr0Y.md": {
+    "title": "GPUI",
+    "description": "",
+    "links": []
   }
 }

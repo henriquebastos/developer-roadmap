@@ -291,39 +291,6 @@
       }
     ]
   },
-  "PcHmU1c9hqKyzSjwlRPHk": {
-    "title": "Services",
-    "description": "**Services**: A service in Android is an app component that performs operations in the background without a user interface. It can be started by an application component, like an activity, and it will continue to run in the background even if the user switches to another application. There are two types of services in Android, namely, `Started Service` and `Bound Service`. A `Started Service` is used to perform a single operation, such as downloading a large file. On the other hand, a `Bound Service` offers a client-server interface that allows components to interact with the service, send requests, receive results, and even perform interprocess communication (IPC).\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Services",
-        "url": "https://developer.android.com/guide/components/services",
-        "type": "article"
-      }
-    ]
-  },
-  "nkcdjrswv0WCzUs48BAt9": {
-    "title": "Content Provider",
-    "description": "A **Content Provider** in Android is a key component that allows applications to securely share data with other applications. They act as a layer between databases and applications to enhance data security. Content providers manage access to a structured set of data by handling data transactions, implementing data security, and maintaining isolation between applications. They provide an abstracted interface which is used to access data, while the underlying storage method (Like SQLite database, web, or any other method) remains hidden. This mechanism aids in retrieving data from a non-relational source in a structured way. They're used primarily when data needs to be shared between multiple applications, not just within a single application.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Content Provider",
-        "url": "https://developer.android.com/guide/topics/providers/content-providers",
-        "type": "article"
-      }
-    ]
-  },
-  "tFuAToid1Fkmu96BDtW7K": {
-    "title": "Broadcast Receiver",
-    "description": "**Broadcast Receivers** in Android are components that respond to system-wide broadcast announcements. They can be registered to respond to a specific type of broadcasts or implement a user-defined broadcast. While you can initiate a broadcast from your app, they are generally used for receiving system notifications or communicating with other applications. However, keep in mind that they cannot display a user interface, but they can start activities if necessary, which do have a user interface. A `BroadcastReceiver` class must override the `onReceive()` method where each message is received as an `Intent` object parameter.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Broadcast Receiver",
-        "url": "https://developer.android.com/reference/android/content/BroadcastReceiver",
-        "type": "article"
-      }
-    ]
-  },
   "hv_9imIQpthxEaMLXEUHI": {
     "title": "Intent",
     "description": "Intent in Android is a software mechanism used for late runtime binding between components, such as activities, content providers, and services. It is essentially a passive data structure holding an abstract description of an operation that the Android system is requested to perform.\n\nVisit the following resources to learn more:",
@@ -432,38 +399,20 @@
       }
     ]
   },
-  "Dp2DOX10u2xJUjB8Okhzh": {
-    "title": "Frame",
-    "description": "**FrameLayout** is a simple ViewGroup subclass in Android that is designed to hold a single child view or a stack of overlapping child views. It positions each child in the top-left corner by default and allows them to overlap on top of each other, which makes it useful for situations where you need to layer views on top of one another.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Android developers: Frame Layout",
-        "url": "https://developer.android.com/reference/android/widget/FrameLayout",
-        "type": "article"
-      }
-    ]
+  "box@Dp2DOX10u2xJUjB8Okhzh.md": {
+    "title": "Box",
+    "description": "",
+    "links": []
   },
-  "U8iMGGOd2EgPxSuwSG39Z": {
-    "title": "Linear",
-    "description": "**LinearLayout** is a view group that aligns all children in a single direction, vertically or horizontally. You can specify the layout direction with the `android:orientation` attribute.\n\n**LinearLayout** was commonly used in earlier Android development, but with the introduction of ConstraintLayout, it’s less frequently used in modern apps.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Linear Layout",
-        "url": "https://developer.android.com/develop/ui/views/layout/linear",
-        "type": "article"
-      }
-    ]
+  "scaffold@U8iMGGOd2EgPxSuwSG39Z.md": {
+    "title": "Scaffold",
+    "description": "",
+    "links": []
   },
-  "yE0qAQZiEC9R8WvCdskpr": {
-    "title": "Relative",
-    "description": "A **RelativeLayout** in Android is a type of ViewGroup that allows you to position child views relative to each other or relative to the parent layout. It's a flexible layout where you can arrange the child views in relation to one another based on certain rules, making it suitable for creating complex UI designs.\n\n**RelativeLayout** was commonly used in earlier Android development, but with the introduction of `ConstraintLayout`, it's less frequently used in modern apps.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Relative Layout",
-        "url": "https://developer.android.com/develop/ui/views/layout/relative",
-        "type": "article"
-      }
-    ]
+  "column--row@yE0qAQZiEC9R8WvCdskpr.md": {
+    "title": "Column / Row",
+    "description": "",
+    "links": []
   },
   "3fFNMhQIuuh-NRzSXYpXO": {
     "title": "Constraint",
@@ -508,54 +457,25 @@
       }
     ]
   },
-  "boMz0HZlMAsLdCZlpUo-H": {
-    "title": "EditText",
-    "description": "`EditText` is a fundamental UI element in Android Studio, used for allowing users to input and edit text within an application. It is a subclass of `TextView` that provides additional features to handle user input.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Android developers: EditText",
-        "url": "https://developer.android.com/reference/android/widget/EditText",
-        "type": "article"
-      }
-    ]
+  "textfield@boMz0HZlMAsLdCZlpUo-H.md": {
+    "title": "TextField",
+    "description": "",
+    "links": []
   },
-  "Mtx0bY0drmaTw8sCM5YTl": {
-    "title": "Dialogs",
-    "description": "A `DialogFragment` is a special fragment subclass that is designed for creating and hosting dialogs. Although you don't need to host your **dialog** within a fragment, doing so lets the `FragmentManager` manage the state of the dialog and automatically restore the dialog when a configuration change occurs. Learn more from the following resources:",
-    "links": [
-      {
-        "title": "Android Developers: Dialogs",
-        "url": "https://developer.android.com/guide/fragments/dialogs",
-        "type": "article"
-      }
-    ]
+  "image@Mtx0bY0drmaTw8sCM5YTl.md": {
+    "title": "Image",
+    "description": "",
+    "links": []
   },
-  "WhfzFOUpm0DFEj7Oeq21R": {
-    "title": "Buttons",
-    "description": "A `button` consists of text or an icon, or both, that communicates what action occurs when the user taps it.\n\nButtons are UI widgets that allow users to interact with an application by tapping on them. A button typically consists of text, an icon, or a combination of both, and communicates what action will occur when the user taps it.\n\nLearn more from the following resources:",
-    "links": [
-      {
-        "title": "Android Developers: Button",
-        "url": "https://developer.android.com/develop/ui/views/components/button",
-        "type": "article"
-      },
-      {
-        "title": "Create a Button - Android",
-        "url": "https://developer.android.com/quick-guides/content/create-button",
-        "type": "article"
-      }
-    ]
+  "button@WhfzFOUpm0DFEj7Oeq21R.md": {
+    "title": "Button",
+    "description": "",
+    "links": []
   },
-  "BVgO9n7tGlVdiS72-hFSd": {
-    "title": "Toast",
-    "description": "A `toast` provides simple feedback about an operation in a small popup. It only fills the amount of space required for the message and the current activity remains visible and interactive. Toasts automatically disappear after a timeout.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Toast",
-        "url": "https://developer.android.com/guide/topics/ui/notifiers/toasts",
-        "type": "article"
-      }
-    ]
+  "text@BVgO9n7tGlVdiS72-hFSd.md": {
+    "title": "Text",
+    "description": "",
+    "links": []
   },
   "A4rtNULX_MoV93IH1Lgqw": {
     "title": "ImageView",
@@ -568,70 +488,30 @@
       }
     ]
   },
-  "Z4Tbd5ClnqCXGPGG09F-G": {
-    "title": "Bottom Sheet",
-    "description": "`Bottom sheets` are surfaces containing supplementary content that are anchored to the bottom of the screen.\n\nThere are several attributes that can be used to adjust the behavior of both standard and modal bottom sheets.\n\nBehavior attributes can be applied to standard bottom sheets in xml by setting them on a child View set to `app:layout_behavior` or programmatically.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Android developers: Bottom Sheets",
-        "url": "https://developer.android.com/reference/com/google/android/material/bottomsheet/BottomSheetDialog",
-        "type": "article"
-      }
-    ]
+  "bottomsheet@Z4Tbd5ClnqCXGPGG09F-G.md": {
+    "title": "BottomSheet",
+    "description": "",
+    "links": []
   },
-  "EzLjX4iRT7AxkAOsJYnSU": {
-    "title": "ListView",
-    "description": "Displays a vertically-scrollable collection of views, where each view is positioned immediately below the previous view in the list.\n\nFor a more modern, flexible, and performant approach to displaying lists, use `RecyclerView`.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "ListView",
-        "url": "https://developer.android.com/reference/android/widget/ListView",
-        "type": "article"
-      }
-    ]
+  "card@EzLjX4iRT7AxkAOsJYnSU.md": {
+    "title": "Card",
+    "description": "",
+    "links": []
   },
-  "amTxz7mS98lkhOrNMJXG_": {
-    "title": "Drawer",
-    "description": "The **Navigation Drawer** in Android is a sliding menu from the left that simplifies navigation between important app links. It opens by sliding or via an icon in the `ActionBar`. It’s an overlay panel that replaces a screen dedicated to displaying options.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Android developers: DrawerLayout",
-        "url": "https://developer.android.com/reference/androidx/drawerlayout/widget/DrawerLayout",
-        "type": "article"
-      },
-      {
-        "title": "Navigate Drawer Tutorial",
-        "url": "https://www.digitalocean.com/community/tutorials/android-navigation-drawer-example-tutorial",
-        "type": "article"
-      }
-    ]
+  "tabrow@amTxz7mS98lkhOrNMJXG_.md": {
+    "title": "TabRow",
+    "description": "",
+    "links": []
   },
-  "pEBpXv3Jf1AzBNHlvVrG8": {
-    "title": "Tabs",
-    "description": "Tabs in Android Studio are a UI component used to organize content into multiple sections, allowing users to navigate between them by selecting the corresponding tab. This component is commonly used when there is a need to present different types of content in a single screen, like different categories, settings, or pages within an app.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Material Tabs",
-        "url": "https://developer.android.com/reference/com/google/android/material/tabs/package-summary",
-        "type": "article"
-      }
-    ]
+  "icon@pEBpXv3Jf1AzBNHlvVrG8.md": {
+    "title": "Icon",
+    "description": "",
+    "links": []
   },
-  "Xn1VQ-xOT67ZfJJTM4r1p": {
-    "title": "Animations",
-    "description": "`Animations` can add visual cues that notify users about what's going on in your app. They are especially useful when the UI changes state, such as when new content loads or new actions become available. Animations also add a polished look to your app, which gives it a higher quality look and feel.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Google developers: Animations",
-        "url": "https://developer.android.com/develop/ui/views/animations/overview",
-        "type": "article"
-      },
-      {
-        "title": "Google developers: Animations",
-        "url": "https://www.youtube.com/watch?v=N_x7SV3I3P0",
-        "type": "video"
-      }
-    ]
+  "dialog@Xn1VQ-xOT67ZfJJTM4r1p.md": {
+    "title": "Dialog",
+    "description": "",
+    "links": []
   },
   "60Vm-77rseUqpMiFvp-dA": {
     "title": "Jetpack Compose",
@@ -878,17 +758,6 @@
       {
         "title": "Hilt",
         "url": "https://developer.android.com/training/dependency-injection/hilt-android",
-        "type": "article"
-      }
-    ]
-  },
-  "dc7k50PjCYZcElHhCk66p": {
-    "title": "Kodein",
-    "description": "`Kodein` is one of the recommended dependency injection frameworks suitable for Android development. This open-source Kotlin library simplifies the DI process by allowing developers to bind various types of dependencies, such as singleton, factory, or provider bindings into containers or `Kodein` modules. It promotes dependency declaration where used, instead of prior declaration. It follows a \"Define in Use\" principle that enables easy-to-use, easy-to-debug and very idiomatic Kotlin code. It's also worth noting that `Kodein` works hand in hand with Android's lifecycle and provides easy integration with popular libraries such as Android Architecture Components, leveraging their functionality.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Kodein",
-        "url": "https://insert-kodein.io/",
         "type": "article"
       }
     ]
@@ -1454,6 +1323,84 @@
       {
         "title": "Android Developers: Navigation",
         "url": "https://developer.android.com/guide/navigation",
+        "type": "article"
+      }
+    ]
+  },
+  "security@j5qmSMOdhpGZo1XOUVx1k.md": {
+    "title": "Security",
+    "description": "",
+    "links": []
+  },
+  "lazy-column--row@mMKN4a8lqo38M0iL1Qwhy.md": {
+    "title": "Lazy Column / Row",
+    "description": "",
+    "links": []
+  },
+  "constraintlayout@qNzC8sQqQaDnG1oy1jiO0.md": {
+    "title": "ConstraintLayout",
+    "description": "",
+    "links": []
+  },
+  "drawer@mhxUDPHI-6NHwOxsdVn65.md": {
+    "title": "Drawer",
+    "description": "",
+    "links": []
+  },
+  "animations@pHxtpvd7U8CbIW6yebcVX.md": {
+    "title": "Animations",
+    "description": "",
+    "links": []
+  },
+  "navhost@UAerxLQ1ZB6N6LS1IhfNk.md": {
+    "title": "NavHost",
+    "description": "",
+    "links": []
+  },
+  "remember--state@8axL6Fa5fm1xWPP07MUbD.md": {
+    "title": "remember / State",
+    "description": "",
+    "links": []
+  },
+  "viewmodel-state@lEdmnJhs-WN-A6glX2DeA.md": {
+    "title": "ViewModel state",
+    "description": "",
+    "links": []
+  },
+  "side-effects@XTMhA-rYiXP7aVFk2nDLY.md": {
+    "title": "Side effects",
+    "description": "",
+    "links": []
+  },
+  "tFuAToid1Fkmu96BDtW7K": {
+    "title": "Broadcast Receiver",
+    "description": "**Broadcast Receivers** in Android are components that respond to system-wide broadcast announcements. They can be registered to respond to a specific type of broadcasts or implement a user-defined broadcast. While you can initiate a broadcast from your app, they are generally used for receiving system notifications or communicating with other applications. However, keep in mind that they cannot display a user interface, but they can start activities if necessary, which do have a user interface. A `BroadcastReceiver` class must override the `onReceive()` method where each message is received as an `Intent` object parameter.\n\nVisit the following resources to learn more:",
+    "links": [
+      {
+        "title": "Broadcast Receiver",
+        "url": "https://developer.android.com/reference/android/content/BroadcastReceiver",
+        "type": "article"
+      }
+    ]
+  },
+  "nkcdjrswv0WCzUs48BAt9": {
+    "title": "Content Provider",
+    "description": "A **Content Provider** in Android is a key component that allows applications to securely share data with other applications. They act as a layer between databases and applications to enhance data security. Content providers manage access to a structured set of data by handling data transactions, implementing data security, and maintaining isolation between applications. They provide an abstracted interface which is used to access data, while the underlying storage method (Like SQLite database, web, or any other method) remains hidden. This mechanism aids in retrieving data from a non-relational source in a structured way. They're used primarily when data needs to be shared between multiple applications, not just within a single application.\n\nVisit the following resources to learn more:",
+    "links": [
+      {
+        "title": "Content Provider",
+        "url": "https://developer.android.com/guide/topics/providers/content-providers",
+        "type": "article"
+      }
+    ]
+  },
+  "PcHmU1c9hqKyzSjwlRPHk": {
+    "title": "Services",
+    "description": "**Services**: A service in Android is an app component that performs operations in the background without a user interface. It can be started by an application component, like an activity, and it will continue to run in the background even if the user switches to another application. There are two types of services in Android, namely, `Started Service` and `Bound Service`. A `Started Service` is used to perform a single operation, such as downloading a large file. On the other hand, a `Bound Service` offers a client-server interface that allows components to interact with the service, send requests, receive results, and even perform interprocess communication (IPC).\n\nVisit the following resources to learn more:",
+    "links": [
+      {
+        "title": "Services",
+        "url": "https://developer.android.com/guide/components/services",
         "type": "article"
       }
     ]

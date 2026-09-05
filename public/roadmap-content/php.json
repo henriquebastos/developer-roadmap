@@ -1000,26 +1000,10 @@
       }
     ]
   },
-  "zsscRQZIq5o0JZir9hlz-": {
-    "title": "Laravel",
-    "description": "Laravel is a robust, elegant PHP framework perfect for web application development, providing developers with a lot of features that boost productivity. Laravel leverages the power of PHP for handling complex tasks such as routing, sessions, caching, and authentication, making it much simpler and quicker for PHP developers to build applications. Laravel's MVC architecture promotes clean, DRY code and separates business logic from UI which significantly improves scalability as well as ease of maintenance.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Laravel",
-        "url": "https://laravel.com/",
-        "type": "article"
-      },
-      {
-        "title": "Laravel Installation",
-        "url": "https://laravel.com/docs/11.x/installation",
-        "type": "article"
-      },
-      {
-        "title": "Laravel Documentation",
-        "url": "https://laravel.com/docs",
-        "type": "article"
-      }
-    ]
+  "yii@zsscRQZIq5o0JZir9hlz-.md": {
+    "title": "Yii",
+    "description": "",
+    "links": []
   },
   "57VSMVePOr9qUD5x_LNdf": {
     "title": "Symfony",

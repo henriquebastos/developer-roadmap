@@ -943,31 +943,10 @@
       }
     ]
   },
-  "uZYQ8tqTriXt_JIOjcM9_": {
-    "title": "NoSQL Databsases",
-    "description": "NoSQL databases are a category of database management systems designed for handling unstructured, semi-structured, or rapidly changing data. Unlike traditional relational databases, which use fixed schemas and SQL for querying, NoSQL databases offer flexible data models and can be classified into several types:\n\n1.  **Document Stores**: Store data in JSON, BSON, or XML formats, allowing for flexible and hierarchical data structures (e.g., MongoDB, CouchDB).\n2.  **Key-Value Stores**: Store data as key-value pairs, suitable for high-speed read and write operations (e.g., Redis, Riak).\n3.  **Column-Family Stores**: Store data in columns rather than rows, which is useful for handling large volumes of data and wide columnar tables (e.g., Apache Cassandra, HBase).\n4.  **Graph Databases**: Optimize the storage and querying of data with complex relationships using graph structures (e.g., Neo4j, Amazon Neptune).\n\nNoSQL databases are often used for applications requiring high scalability, flexibility, and performance, such as real-time analytics, content management systems, and distributed data storage.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "NoSQL Explained",
-        "url": "https://www.mongodb.com/nosql-explained",
-        "type": "article"
-      },
-      {
-        "title": "Explore top posts about NoSQL",
-        "url": "https://app.daily.dev/tags/nosql?ref=roadmapsh",
-        "type": "article"
-      },
-      {
-        "title": "How do NoSQL Databases work",
-        "url": "https://www.youtube.com/watch?v=0buKQHokLK8",
-        "type": "video"
-      },
-      {
-        "title": "SQL vs NoSQL Explained",
-        "url": "https://www.youtube.com/watch?v=ruz-vK8IesE",
-        "type": "video"
-      }
-    ]
+  "nosql-databases@uZYQ8tqTriXt_JIOjcM9_.md": {
+    "title": "NoSQL Databases",
+    "description": "",
+    "links": []
   },
   "sGkAOVl3C-xIIAdtDH9jq": {
     "title": "Document",
@@ -1910,11 +1889,6 @@
       }
     ]
   },
-  "wwPO5Uc6qnwYgibrbPn7y": {
-    "title": "Streaming",
-    "description": "Streaming processing, also known as real-time processing, involves the immediate ingestion, as well as analysis, of data as it is generated, providing instantaneous insights and enabling timely decisions in time-sensitive applications like financial trading, medical monitoring, and autonomous vehicles. This differs from batch processing, which handles data in later batches, and typically involves continuous data streaming, low latency, and high availability to deliver immediate outcomes for critical tasks.",
-    "links": []
-  },
   "oqxNr0Lj34mgRi5Z5wJt_": {
     "title": "Realtime",
     "description": "Real-time processing, also known as streaming processing, involves the immediate ingestion, as well as analysis, of data as it is generated, providing instantaneous insights and enabling timely decisions in time-sensitive applications like financial trading, medical monitoring, and autonomous vehicles. This differs from batch processing, which handles data in later batches, and typically involves continuous data streaming, low latency, and high availability to deliver immediate outcomes for critical tasks.",
@@ -1999,21 +1973,10 @@
       }
     ]
   },
-  "TAh4__7U58J7fduU9a1Ol": {
-    "title": "Perfect",
-    "description": "Prefect is an open-source orchestration engine that turns your Python functions into production-grade data pipelines with minimal friction. You can build and schedule workflows in pure Python—no DSLs or complex config files—and run them anywhere you can run Python. Prefect handles the heavy lifting for you out of the box: automatic state tracking, failure handling, real-time monitoring, and more.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Prefect Docs",
-        "url": "https://docs.prefect.io/v3/get-started",
-        "type": "article"
-      },
-      {
-        "title": "Getting Started with Prefect",
-        "url": "https://www.youtube.com/watch?v=D5DhwVNHWeU",
-        "type": "video"
-      }
-    ]
+  "prefect@TAh4__7U58J7fduU9a1Ol.md": {
+    "title": "Prefect",
+    "description": "",
+    "links": []
   },
   "hB0y8A2U3owpAbTUb7LN5": {
     "title": "Cluster Computing Basics",

@@ -410,5 +410,25 @@
         "type": "article"
       }
     ]
+  },
+  "ai-engineering@SWEAVNGiQp5sTm3NWp4n5.md": {
+    "title": "AI Engineering",
+    "description": "",
+    "links": []
+  },
+  "prompt-engineering-llms-rag-agents-fine-tuning@u7jmgvZYpKSzu9t7e0ACh.md": {
+    "title": "Prompt Engineering, LLMs, RAG, Agents, Fine-tuning",
+    "description": "",
+    "links": []
+  },
+  "vibe-coding@ILGi2zpuyTGfkyZjua9jv.md": {
+    "title": "Vibe Coding",
+    "description": "",
+    "links": []
+  },
+  "ai-coding-assitants-ai-app-builders@zX4rhaEsjEuRAWWY83Sae.md": {
+    "title": "AI Coding Assitants, AI App Builders",
+    "description": "",
+    "links": []
   }
 }

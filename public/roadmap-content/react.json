@@ -420,11 +420,6 @@
       }
     ]
   },
-  "YEpkbNzEMzS6wAKg85J_N": {
-    "title": "useState",
-    "description": "",
-    "links": []
-  },
   "8OnzX03hkZ9K9i__tjmFX": {
     "title": "useEffect",
     "description": "`useEffect` is a special hook that lets you run side effects in React. It is similar to componentDidMount and componentDidUpdate, but it only runs when the component (or some of its props) changes and during the initial mount.\n\nVisit the following resources to learn more:",
@@ -762,26 +757,10 @@
       }
     ]
   },
-  "MnDgQq9Vcxsu3wDqv5uh2": {
-    "title": "Headless Component Libraries",
-    "description": "Headless component libraries have some powerful state, logic and data management tools that do not enforce any UI structure. Consequently, developers are able to build custom UI components with unique styles but that still benefit from strong reusable logics. This kind of library simplifies complex behaviors and accessibility issues in outdoor environments allowing you to create innovative interfaces. With headless components, developers keep code clean and maintainable as a result of the reusability aspect inherent in these, this also guarantees efficient and accessible components enhancing application quality.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "What are headless components?",
-        "url": "https://dev.to/verthon/headless-ui-libraries-the-key-to-flexible-and-accessible-user-interfaces-546p",
-        "type": "article"
-      },
-      {
-        "title": "Headless Components: A Comprehensive Guide",
-        "url": "https://blog.logrocket.com/the-complete-guide-to-building-headless-interface-components-in-react/",
-        "type": "article"
-      },
-      {
-        "title": "Rise of Headless Components",
-        "url": "https://www.youtube.com/watch?v=_WtVG_pKsxM",
-        "type": "video"
-      }
-    ]
+  "headless-components@MnDgQq9Vcxsu3wDqv5uh2.md": {
+    "title": "Headless Components",
+    "description": "",
+    "links": []
   },
   "KO3viVIJJREtxXxsocN7j": {
     "title": "Tailwind CSS",
@@ -1118,31 +1097,10 @@
       }
     ]
   },
-  "5EPmbiNdP_vhIXclv_GjV": {
-    "title": "react-query",
-    "description": "Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "TanStack Query",
-        "url": "https://github.com/TanStack/query",
-        "type": "opensource"
-      },
-      {
-        "title": "Explore top posts about React",
-        "url": "https://app.daily.dev/tags/react?ref=roadmapsh",
-        "type": "article"
-      },
-      {
-        "title": "React Query in 100 Seconds",
-        "url": "https://www.youtube.com/watch?v=novnyCaa7To",
-        "type": "video"
-      },
-      {
-        "title": "React Query Tutorial for Beginners - Complete Playlist",
-        "url": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwjTELCrPrcZlo6blLBUspd2",
-        "type": "video"
-      }
-    ]
+  "tanstack-query@5EPmbiNdP_vhIXclv_GjV.md": {
+    "title": "Tanstack Query",
+    "description": "",
+    "links": []
   },
   "ElqWQClryfSYdL7P_mgYK": {
     "title": "Axios",
@@ -1717,5 +1675,15 @@
         "type": "video"
       }
     ]
+  },
+  "formish@_-2WpGnJ1CMj_acD1dr_i.md": {
+    "title": "Formish",
+    "description": "",
+    "links": []
+  },
+  "valibot@EOQGj1ALgdp6u9thVHdmc.md": {
+    "title": "Valibot",
+    "description": "",
+    "links": []
   }
 }

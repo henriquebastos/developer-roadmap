@@ -789,6 +789,11 @@
         "title": "How to use and optimize videos",
         "url": "https://nextjs.org/docs/app/guides/videos",
         "type": "article"
+      },
+      {
+        "title": "Add high-performance video to your Nextjs app",
+        "url": "https://next-video.dev/docs",
+        "type": "video"
       }
     ]
   },
@@ -1309,26 +1314,10 @@
       }
     ]
   },
-  "gpZNwsh075wl5eH2gLKro": {
-    "title": "Middelware",
-    "description": "i# Middleware\n\nMiddleware is a powerful feature that allows you to intercept and run code on the server before a request is completed. Then, based on the incoming request, you can modify the response by rewriting, redirecting, modifying the request or response headers, or responding directly. Middleware executes before routes are rendered. It's particularly useful for implementing custom server-side logic like authentication, logging, or handling redirects.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Middleware for App Router",
-        "url": "https://nextjs.org/docs/app/api-reference/file-conventions/middleware",
-        "type": "article"
-      },
-      {
-        "title": "Middleware for Pages Router",
-        "url": "https://nextjs.org/docs/pages/api-reference/file-conventions/middleware",
-        "type": "article"
-      },
-      {
-        "title": "Next.js 15 Tutorial - Middleware",
-        "url": "https://www.youtube.com/watch?v=t1KTTZbqCm0",
-        "type": "video"
-      }
-    ]
+  "middleware@gpZNwsh075wl5eH2gLKro.md": {
+    "title": "Middleware",
+    "description": "",
+    "links": []
   },
   "XwDF-Kt9K5smm3ruxlkR2": {
     "title": "Setting Headers",

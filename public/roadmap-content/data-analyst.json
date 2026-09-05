@@ -441,22 +441,6 @@
       }
     ]
   },
-  "g_EBQizZsIe-vn8ir6FTv": {
-    "title": "R",
-    "description": "R is a powerful language profoundly used by data analysts and statisticians across the globe. Offering a wide array of statistical and graphical techniques, R proves to be an excellent tool for data manipulation, statistical modeling and visualization. With its comprehensive collection of packages and built-in functions for data analysis, R allows data analysts to perform complex exploratory data analysis, build sophisticated models and create stunning visualizations. Moreover, given its open-source nature, R consistently advances with contributions from the worldwide statistical community.\n\nLearn more from the following resources:",
-    "links": [
-      {
-        "title": "R Website",
-        "url": "https://www.r-project.org/about.html",
-        "type": "article"
-      },
-      {
-        "title": "R vs Python | Which is Better for Data Analysis?",
-        "url": "https://www.youtube.com/watch?v=1gdKC5O0Pwc",
-        "type": "video"
-      }
-    ]
-  },
   "M1QtGTLyygIjePoCfvjve": {
     "title": "Data Manipulation Libraries",
     "description": "Data manipulation libraries are essential tools in data science and analytics, enabling efficient handling, transformation, and analysis of large datasets. Python, a popular language for data science, offers several powerful libraries for this purpose. Pandas is a highly versatile library that provides data structures like DataFrames, which allow for easy manipulation and analysis of tabular data. NumPy, another fundamental library, offers support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays. Together, Pandas and NumPy form the backbone of data manipulation in Python, facilitating tasks such as data cleaning, merging, reshaping, and statistical analysis, thus streamlining the data preparation process for machine learning and other data-driven applications.\n\nLearn more from the following resources:",
@@ -478,74 +462,10 @@
       }
     ]
   },
-  "8OXmF2Gn6TYJotBRvDjqA": {
-    "title": "Pandas",
-    "description": "Pandas is a widely acknowledged and highly useful data manipulation library in the world of data analysis. Known for its robust features like data cleaning, wrangling and analysis, pandas has become one of the go-to tools for data analysts. Built on NumPy, it provides high-performance, easy-to-use data structures and data analysis tools. In essence, its flexibility and versatility make it a critical part of the data analyst's toolkit, as it holds the capability to cater to virtually every data manipulation task.\n\nLearn more from the following resources:",
-    "links": [
-      {
-        "title": "Pandas",
-        "url": "https://pandas.pydata.org/",
-        "type": "article"
-      },
-      {
-        "title": "NumPy vs Pandas",
-        "url": "https://www.youtube.com/watch?v=KHoEbRH46Zk",
-        "type": "video"
-      }
-    ]
-  },
   "l1SnPc4EMqGdaIAhIQfrT": {
     "title": "Data Visualisation Libraries",
     "description": "Data visualization libraries are crucial in data science for transforming complex datasets into clear and interpretable visual representations, facilitating better understanding and communication of data insights. In Python, several libraries are widely used for this purpose. Matplotlib is a foundational library that offers comprehensive tools for creating static, animated, and interactive plots. Seaborn, built on top of Matplotlib, provides a high-level interface for drawing attractive and informative statistical graphics with minimal code. Plotly is another powerful library that allows for the creation of interactive and dynamic visualizations, which can be easily embedded in web applications. Additionally, libraries like Bokeh and Altair offer capabilities for creating interactive plots and dashboards, enhancing exploratory data analysis and the presentation of data findings. Together, these libraries enable data scientists to effectively visualize trends, patterns, and outliers in their data, making the analysis more accessible and actionable.\n\nLearn more from the following resources:",
     "links": []
-  },
-  "uGkXxdMXUMY-3fQFS1jK8": {
-    "title": "Matplotlib",
-    "description": "Matplotlib is a paramount data visualization library used extensively by data analysts for generating a wide array of plots and graphs. Through Matplotlib, data analysts can convey results clearly and effectively, driving insights from complex data sets. It offers a hierarchical environment which is very natural for a data scientist to work with. Providing an object-oriented API, it allows for extensive customization and integration into larger applications. From histograms, bar charts, scatter plots to 3D graphs, the versatility of Matplotlib assists data analysts in the better comprehension and compelling representation of data.\n\nLearn more from the following resources:",
-    "links": [
-      {
-        "title": "Matplotlib",
-        "url": "https://matplotlib.org/",
-        "type": "article"
-      },
-      {
-        "title": "Learn Matplotlib in 6 minutes",
-        "url": "https://www.youtube.com/watch?v=nzKy9GY12yo",
-        "type": "video"
-      }
-    ]
-  },
-  "y__UHXe2DD-IB7bvMF1-X": {
-    "title": "Dplyr",
-    "description": "Dplyr is a powerful and popular toolkit for data manipulation in R. As a data analyst, this library provides integral functions to manipulate, clean, and process data efficiently. It has been designed to be easy and intuitive, ensuring a robust and consistent syntax. Dplyr ensures data reliability and fast processing, essential for analysts dealing with large datasets. With a strong focus on efficiency, dplyr functions like select, filter, arrange, mutate, summarise, and group\\_by optimise data analysis operations, making data manipulation a smoother and hassle-free procedure for data analysts.\n\nLearn more from the following resources:",
-    "links": [
-      {
-        "title": "dplyr",
-        "url": "https://dplyr.tidyverse.org/",
-        "type": "article"
-      },
-      {
-        "title": "Dplyr Essentials",
-        "url": "https://www.youtube.com/watch?v=Gvhkp-Yw65U",
-        "type": "video"
-      }
-    ]
-  },
-  "E0hIgQEeZlEidr4HtUFrL": {
-    "title": "Ggplot2",
-    "description": "When it comes to data visualization in R programming, ggplot2 stands tall as one of the primary tools for data analysts. This data visualization library, which forms part of the tidyverse suite of packages, facilitates the creation of complex and sophisticated visual narratives. With its grammar of graphics philosophy, ggplot2 enables analysts to build graphs and charts layer by layer, thereby offering detailed control over graphical features and design. Its versatility in creating tailored and aesthetically pleasing graphics is a vital asset for any data analyst tackling exploratory data analysis, reporting, or dashboard building.\n\nLearn more from the following resources:",
-    "links": [
-      {
-        "title": "ggplot2",
-        "url": "https://ggplot2.tidyverse.org/",
-        "type": "article"
-      },
-      {
-        "title": "Make beautiful graphs in R",
-        "url": "https://www.youtube.com/watch?v=qnw1xDnt_Ec",
-        "type": "video"
-      }
-    ]
   },
   "_sjXCLHHTbZromJYn6fnu": {
     "title": "Data Collection",
@@ -756,21 +676,10 @@
       }
     ]
   },
-  "Fyqg3MRcwY7g-Q3gjiqwK": {
-    "title": "Distribution Space",
-    "description": "In the realm of Data Analysis, the distribution shape is considered as an essential component under descriptive analysis. A data analyst uses the shape of the distribution to understand the spread and trend of the data set. It aids in identifying the skewness (asymmetry) and kurtosis (the 'tailedness') of the data and helps to reveal meaningful patterns that standard statistical measures like mean or median might not capture. The distribution shape can provide insights into data’s normality and variability, informing decisions about which statistical methods are appropriate for further analysis.\n\nLearn more from the following resources:",
-    "links": [
-      {
-        "title": "Shapes of distributions",
-        "url": "https://online.stat.psu.edu/stat414/lesson/13/13.5",
-        "type": "course"
-      },
-      {
-        "title": "Shapes of Distributions: Definitions, Examples",
-        "url": "https://www.statisticshowto.com/shapes-of-distributions/",
-        "type": "article"
-      }
-    ]
+  "distribution-shape@Fyqg3MRcwY7g-Q3gjiqwK.md": {
+    "title": "Distribution Shape",
+    "description": "",
+    "links": []
   },
   "923KGEUG9ofBm7dYkkrxz": {
     "title": "Mean",
@@ -816,22 +725,6 @@
       {
         "title": "Mean Median Mode Formula",
         "url": "https://www.cuemath.com/mean-median-mode-formula/",
-        "type": "article"
-      }
-    ]
-  },
-  "yn1sstYMO9du3rpfQqNs9": {
-    "title": "Average",
-    "description": "When focusing on data analysis, understanding key statistical concepts is crucial. Amongst these, central tendency is a foundational element. Central Tendency refers to the measure that determines the center of a distribution. The average is a commonly used statistical tool by which data analysts discern trends and patterns. As one of the most recognized forms of central tendency, figuring out the \"average\" involves summing all values in a data set and dividing by the number of values. This provides analysts with a 'typical' value, around which the remaining data tends to cluster, facilitating better decision-making based on existing data.\n\nLearn more from the following resources:",
-    "links": [
-      {
-        "title": "How to Calculate the Average",
-        "url": "https://support.microsoft.com/en-gb/office/calculate-the-average-of-a-group-of-numbers-e158ef61-421c-4839-8290-34d7b1e68283#:~:text=Average%20This%20is%20the%20arithmetic,by%206%2C%20which%20is%205.",
-        "type": "article"
-      },
-      {
-        "title": "Average Formula",
-        "url": "https://www.cuemath.com/average-formula/",
         "type": "article"
       }
     ]
@@ -934,22 +827,6 @@
       {
         "title": "What is Tableau?",
         "url": "https://www.youtube.com/watch?v=NLCzpPRCc7U",
-        "type": "video"
-      }
-    ]
-  },
-  "SJLeose5vZU8w_18C8_t0": {
-    "title": "Power BI",
-    "description": "PowerBI, an interactive data visualization and business analytics tool developed by Microsoft, plays a crucial role in the field of a data analyst's work. It helps data analysts to convert raw data into meaningful insights through it's easy-to-use dashboards and reports function. This tool provides a unified view of business data, allowing analysts to track and visualize key performance metrics and make better-informed business decisions. With PowerBI, data analysts also have the ability to manipulate and produce visualizations of large data sets that can be shared across an organization, making complex statistical information more digestible.\n\nLearn more from the following resources:",
-    "links": [
-      {
-        "title": "Power BI",
-        "url": "https://www.microsoft.com/en-us/power-platform/products/power-bi",
-        "type": "article"
-      },
-      {
-        "title": "Power BI for beginners",
-        "url": "https://www.youtube.com/watch?v=NNSHu0rkew8",
         "type": "video"
       }
     ]
