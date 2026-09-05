@@ -979,21 +979,10 @@
       }
     ]
   },
-  "wUq-qEIh-tazYhgQQUqGG": {
-    "title": "Bug Magnet",
-    "description": "Exploratory Testing is all about exploring the software by navigating random paths and discovering what it can do and what it can’t. In exploratory testing we try to verify how well system reacts to special/invalid inputs and edge cases. Bug Magnet will help you configure Data validations and variety input scenarios likely to cause issues.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Bug Magnet Website",
-        "url": "https://bugmagnet.org/",
-        "type": "article"
-      },
-      {
-        "title": "Bug Magnet: Chrome Extension for Exploratory Testing",
-        "url": "http://www.testingjournals.com/bug-magnet-extension-exploratory-testing/",
-        "type": "article"
-      }
-    ]
+  "bugbug@wUq-qEIh-tazYhgQQUqGG.md": {
+    "title": "BugBug",
+    "description": "",
+    "links": []
   },
   "cFhOYHgq1_MUSXjDI_fFN": {
     "title": "Webdriver.io",
@@ -1497,26 +1486,10 @@
       }
     ]
   },
-  "Q6eNkuRI6dPa9X44pwrea": {
-    "title": "XCUITest",
-    "description": "Mobile app testing, and more specifically, app UI testing involves checking how the interface behaves when user actions are performed and then compares results with expected outcomes. Here, testers try to replicate exactly how a user would interact with the application and validate the state of the UI. XCUITest allows them to write test cases for these purposes using two fundamental concepts.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "XCUITest Documentation",
-        "url": "https://developer.apple.com/documentation/xctest/",
-        "type": "article"
-      },
-      {
-        "title": "Getting Started with XCUITest",
-        "url": "https://www.browserstack.com/guide/getting-started-xcuitest-framework",
-        "type": "article"
-      },
-      {
-        "title": "Xcuitest - End to End Testing",
-        "url": "https://testautomationu.applitools.com/learningpaths.html?id=mobile-swift-path",
-        "type": "article"
-      }
-    ]
+  "swifttesting@Q6eNkuRI6dPa9X44pwrea.md": {
+    "title": "SwiftTesting",
+    "description": "",
+    "links": []
   },
   "mmDIqSD6MU3ZhWREGI5E2": {
     "title": "Accessibility Tests",
@@ -2663,5 +2636,45 @@
         "type": "article"
       }
     ]
+  },
+  "testing-methodologies@7xGXlwgkcGV6BrDDDN71R.md": {
+    "title": "Testing Methodologies",
+    "description": "",
+    "links": []
+  },
+  "atdd@isNJ0To1bBJvn899DITei.md": {
+    "title": "ATDD",
+    "description": "",
+    "links": []
+  },
+  "bdd@VQOrMKGC-dBJ7CzLclviT.md": {
+    "title": "BDD",
+    "description": "",
+    "links": []
+  },
+  "rca@BnZDIWW4rl_N1BhWhhTpO.md": {
+    "title": "RCA",
+    "description": "",
+    "links": []
+  },
+  "mocking@Rj7bQRZZ5CGVO_b1Wwy8X.md": {
+    "title": "Mocking",
+    "description": "",
+    "links": []
+  },
+  "testing-data-management@3Ngw17hkW2HPs-OOaHzv-.md": {
+    "title": "Testing Data Management",
+    "description": "",
+    "links": []
+  },
+  "delphix@V54fh772XfHHIFQoyMCOo.md": {
+    "title": "Delphix",
+    "description": "",
+    "links": []
+  },
+  "spiral@IajllMZxKGa28EK88uAuh.md": {
+    "title": "Spiral",
+    "description": "",
+    "links": []
   }
 }

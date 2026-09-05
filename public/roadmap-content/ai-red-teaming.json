@@ -807,26 +807,10 @@
       }
     ]
   },
-  "JQ3bR8odXJfd-1RCEf3-Q": {
-    "title": "Authentication",
-    "description": "AI Red Teamers test authorization controls to ensure that authenticated users can only access the AI features and data permitted by their roles/permissions. They attempt privilege escalation, try to access other users' data via the AI, or manipulate the AI to perform actions beyond its authorized scope.\n\nLearn more from the following resources:",
-    "links": [
-      {
-        "title": "What is Authentication vs Authorization?",
-        "url": "https://auth0.com/intro-to-iam/authentication-vs-authorization",
-        "type": "article"
-      },
-      {
-        "title": "Identity and access management (IAM) fundamental concepts",
-        "url": "https://learn.microsoft.com/en-us/entra/fundamentals/identity-fundamental-concepts",
-        "type": "article"
-      },
-      {
-        "title": "OWASP API Security Project",
-        "url": "https://owasp.org/www-project-api-security/",
-        "type": "article"
-      }
-    ]
+  "authorization@JQ3bR8odXJfd-1RCEf3-Q.md": {
+    "title": "Authorization",
+    "description": "",
+    "links": []
   },
   "0bApnJTt-Z2IUf0X3OCYf": {
     "title": "Black Box Testing",

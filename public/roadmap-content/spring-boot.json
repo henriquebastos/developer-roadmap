@@ -758,31 +758,10 @@
     "description": "",
     "links": []
   },
-  "6sLE6gb5Y477SmO2GhQIG": {
-    "title": "Eurkea",
-    "description": "Spring Cloud Eureka is a library for service discovery in a microservices-based architecture. Service discovery is a technique that allows services to find and communicate with each other, without having to hardcode their addresses.\n\nEureka is a service registry that allows service instances to register themselves and to discover other services by name. It provides a simple, consistent way for services to find and communicate with each other, and it integrates with other Spring Cloud libraries such as Ribbon and Feign to provide load balancing and declarative REST clients.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Introduction to Spring Cloud Netflix – Eureka",
-        "url": "https://www.baeldung.com/spring-cloud-netflix-eureka",
-        "type": "article"
-      },
-      {
-        "title": "Spring Boot - Eureka Server",
-        "url": "https://www.tutorialspoint.com/spring_boot/spring_boot_eureka_server.htm",
-        "type": "article"
-      },
-      {
-        "title": "Explore top posts about Backend Development",
-        "url": "https://app.daily.dev/tags/backend?ref=roadmapsh",
-        "type": "article"
-      },
-      {
-        "title": "Introducing Spring Cloud EUREKA",
-        "url": "https://www.youtube.com/watch?v=1uNo1NrqsX4",
-        "type": "video"
-      }
-    ]
+  "eureka@6sLE6gb5Y477SmO2GhQIG.md": {
+    "title": "Eureka",
+    "description": "",
+    "links": []
   },
   "S-BbOoRD7anvoJrprjoKF": {
     "title": "Spring MVC",

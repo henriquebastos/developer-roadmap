@@ -514,26 +514,10 @@
       }
     ]
   },
-  "zXxEiM5HeOn7W-Vue0tQf": {
-    "title": "Handling CRUD Operations",
-    "description": "When designing APIs, one needs to account for various types of interactions with data - these typically revolve around the CRUD operations; Create, Read, Update, and Delete. Whether the API is designed for a banking app or a social media platform, the need to create new data, read or retrieve existing data, update or modify that data, and delete unnecessary data is universal.\n\nTherefore, mastering CRUD operations in API design is a fundamental skill. Effective handling of CRUD operations facilitates seamless interaction between the front-end and back-end systems, and ensures proper data management, thereby improving user experience.\n\nLearn more from the following resources:",
-    "links": [
-      {
-        "title": "Introduction to Building a CRUD API with Node.js and Express",
-        "url": "https://www.split.io/blog/introduction-to-building-a-crud-api-with-node-js-and-express/",
-        "type": "article"
-      },
-      {
-        "title": "An expert's guide to CRUD APIs",
-        "url": "https://www.forestadmin.com/blog/an-experts-guide-to-crud-apis-designing-a-robust-one/",
-        "type": "article"
-      },
-      {
-        "title": "Rethinking CRUD For REST API Designs - Palentir",
-        "url": "https://blog.palantir.com/rethinking-crud-for-rest-api-designs-a2a8287dc2af",
-        "type": "article"
-      }
-    ]
+  "crud-operations@zXxEiM5HeOn7W-Vue0tQf.md": {
+    "title": "CRUD Operations",
+    "description": "",
+    "links": []
   },
   "8tELdagrOaGCf3nMVs8t3": {
     "title": "Error Handling",
@@ -556,21 +540,10 @@
       }
     ]
   },
-  "5CxU3inGcSHp-TDg3BQiY": {
-    "title": "RFC 7807 -  Problem Details for APIs",
-    "description": "The practice of API Design includes a significant focus on handling errors effectively and transparently. Among the widespread standards being adopted, the RFC 7807 or Problem Details for HTTP APIs plays a crucial role. This specification provides a standardized format for sending problem or error details from an HTTP API so developers engaging with the API do not need to parse non-standard error messages and can anticipate the structure of potential errors. In essence, RFC 7807 improves the usability and comprehension of your API, providing a better developer experience and encouraging the efficient use of your API. Implementing it paves the way to robust and accountable systems, where issues can be traced, identified, and solved more conveniently.\n\nLearn more from the following resources:",
-    "links": [
-      {
-        "title": "RFC 7807 - Problem Details for HTTP APIs",
-        "url": "https://datatracker.ietf.org/doc/html/rfc7807",
-        "type": "article"
-      },
-      {
-        "title": "RFC 9457 - Problem Details for HTTP APIs",
-        "url": "https://www.rfc-editor.org/rfc/rfc9457.html",
-        "type": "article"
-      }
-    ]
+  "rfc-7807----problem-details@5CxU3inGcSHp-TDg3BQiY.md": {
+    "title": "RFC 7807 -  Problem Details",
+    "description": "",
+    "links": []
   },
   "qAolZHf_jp8hCdtqHZwC8": {
     "title": "HTTP Caching",
@@ -735,42 +708,15 @@
       }
     ]
   },
-  "wFsbmMi5Ey9UyDADdbdPW": {
-    "title": "Role Based Access Control (RBAC)",
-    "description": "Role-Based Access Control (RBAC) is a method of managing authorization in API design that assigns system access to users based on their role within an organization. RBAC is crucial in controlling which endpoints a user can call, and what operations they are allowed to execute. In the context of API design, RBAC ensures appropriate levels of access for different types of users to guarantee data security and integrity. It simplifies the process of security administration by assigning privileges based on a user's job function, rather than on an individual basis.\n\nLearn more from the following resources:",
-    "links": [
-      {
-        "title": "Role-Based Access Control",
-        "url": "https://auth0.com/docs/manage-users/access-control/rbac",
-        "type": "article"
-      },
-      {
-        "title": "What is Role-based Access Control (RBAC)?",
-        "url": "https://www.redhat.com/en/topics/security/what-is-role-based-access-control",
-        "type": "article"
-      },
-      {
-        "title": "Role-based Access Control (RBAC) vs. Attribute-based Access Control (ABAC)",
-        "url": "https://www.youtube.com/watch?v=rvZ35YW4t5k",
-        "type": "video"
-      }
-    ]
+  "mac@tl1wXmOaj_zHL2o38VygO.md": {
+    "title": "MAC",
+    "description": "",
+    "links": []
   },
-  "dZTe_kxIUQsc9N3w920aR": {
-    "title": "Attribute Based Access Control (ABAC)",
-    "description": "Attribute Based Access Control (ABAC) is a flexible and powerful authorization method in the realm of API Design. Distinct from Role-Based Access Control (RBAC), which relies on predefined roles and permissions, ABAC uses attributes to build policies and make decisions. These attributes can be associated with the user, the action they want to perform, targeted resources, or the environment. With ABAC, finer-grained access control can be achieved, thereby improving the security and efficiency of APIs. This approach is widely used in complex and dynamic environments where access control requirements can be multifaceted and deeply context-dependent.\n\nLearn more from the following resources:",
-    "links": [
-      {
-        "title": "What is Attribute Based Access Control?",
-        "url": "https://www.okta.com/uk/blog/2020/09/attribute-based-access-control-abac/",
-        "type": "article"
-      },
-      {
-        "title": "Attribute Based Access Control",
-        "url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction_attribute-based-access-control.html",
-        "type": "article"
-      }
-    ]
+  "rebac@CCcY8UsGdd2pdBYHt9L4o.md": {
+    "title": "ReBAC",
+    "description": "",
+    "links": []
   },
   "tzUJwXu_scwQHnPPT0oY-": {
     "title": "API Keys & Management",
@@ -1591,5 +1537,70 @@
         "type": "video"
       }
     ]
+  },
+  "dac@_BXgYUlaYfpYrryXTw5n2.md": {
+    "title": "DAC",
+    "description": "",
+    "links": []
+  },
+  "abac@dZTe_kxIUQsc9N3w920aR.md": {
+    "title": "ABAC",
+    "description": "",
+    "links": []
+  },
+  "pbac@nJWtUyn9bljh3T-q_adJK.md": {
+    "title": "PBAC",
+    "description": "",
+    "links": []
+  },
+  "rbac@wFsbmMi5Ey9UyDADdbdPW.md": {
+    "title": "RBAC",
+    "description": "",
+    "links": []
+  },
+  "bff-pattern@v8iYctF_k40ES0_hHXS9N.md": {
+    "title": "BFF Pattern ",
+    "description": "",
+    "links": []
+  },
+  "resource-modeling@8IDks2DNFZ5nER7wK2Bu4.md": {
+    "title": "Resource modeling",
+    "description": "",
+    "links": []
+  },
+  "naming-conventions@0yY_lWzWVOC_WmPoyHw8W.md": {
+    "title": "Naming Conventions",
+    "description": "",
+    "links": []
+  },
+  "filtering-sorting--search@dL3YellfAszBeJnm8KEYE.md": {
+    "title": "Filtering, Sorting & Search ",
+    "description": "",
+    "links": []
+  },
+  "oidc@jWekRGRa1131w92oS1HeW.md": {
+    "title": "OIDC",
+    "description": "",
+    "links": []
+  },
+  "scopes--permissions@qjawwRcMl2-IDwk8ExpPL.md": {
+    "title": "Scopes & Permissions",
+    "description": "",
+    "links": []
+  },
+  "key-generation--rotation@0fSfFtskcJ0HNUZPf998l.md": {
+    "title": "Key Generation & Rotation",
+    "description": "",
+    "links": []
+  },
+  "streaming-responses@zeYJPEduAmLQHqq4kNBdx.md": {
+    "title": "Streaming Responses",
+    "description": "",
+    "links": []
+  },
+  "observability@oIZimEuBHCBGsK6b-s57f.md": {
+    "title": "Observability",
+    "description": "",
+    "links": []
   }
 }

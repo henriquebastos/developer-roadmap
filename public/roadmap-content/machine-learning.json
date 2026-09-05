@@ -2015,26 +2015,10 @@
       }
     ]
   },
-  "LdUwTWfCIcowwC-e6q3ac": {
-    "title": "LSMT",
-    "description": "LSTMs are a special kind of recurrent neural network (RNN) architecture designed to handle the vanishing gradient problem that often occurs when training standard RNNs. They excel at processing sequential data by maintaining a \"memory\" of past inputs, allowing them to learn long-term dependencies. This memory is controlled by gates that regulate the flow of information into and out of the cell state, enabling LSTMs to selectively remember or forget information over time.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "A Gentle Introduction to Long Short-Term Memory Networks by the Experts",
-        "url": "https://machinelearningmastery.com/gentle-introduction-long-short-term-memory-networks-experts/",
-        "type": "article"
-      },
-      {
-        "title": "Long Short-Term Memory (LSTM), Clearly Explained",
-        "url": "https://www.youtube.com/watch?v=YCzL96nL7j0",
-        "type": "video"
-      },
-      {
-        "title": "Simple Explanation of LSTM",
-        "url": "https://www.youtube.com/watch?v=LfnrRPFhku",
-        "type": "video"
-      }
-    ]
+  "lstm@LdUwTWfCIcowwC-e6q3ac.md": {
+    "title": "LSTM",
+    "description": "",
+    "links": []
   },
   "-tzeA13f2jYDm4aO5JciT": {
     "title": "Attention Mechanisms",
